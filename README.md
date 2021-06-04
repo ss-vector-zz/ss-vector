@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ss-vector, work and live in Peru
 - 👀 I’m interested in Javascript, PHP, Python, SASS, CSS
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate (sometime in the future) develop indie games and content related website with cool UI/UX.
 - 📫 How to reach me ...
 
 <!---
